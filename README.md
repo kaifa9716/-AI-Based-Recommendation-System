@@ -1,5 +1,19 @@
 # AI-Based-Recommendation-System
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : KAIF ANSARI
+
+INTERN_ID : CT06DG58
+
+DOMAIN : Java Programming
+
+DURATION : 6 WEEKS
+
+MENTOR : Neela Santhosh Kumar
+  
+  
+<br/><br/><br/>
 
 
 Welcome to AI Recommendation system
